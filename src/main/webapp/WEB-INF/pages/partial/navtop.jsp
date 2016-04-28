@@ -6,13 +6,13 @@
   To change this template use File | Settings | File Templates.
 --%>
 <%@ page contentType="text/html;charset=UTF-8" language="java" %>
-<nav class="navbar navbar-default navbar-static-top">
+<nav class="navbar navbar-default navbar-static-top" style="background-color: #fbf1fc">
 
-    <div class="container">
+    <div class="container" >
         <ul class="nav navbar-nav">
             <li class="navbar-left">
                 <a href="/">
-                    <img alt="Brand" src="/resource/images/sLogo.png" style="height:55px">
+                    <img alt="Brand" src="/resource/images/logosmall.png" style="height:60px">
                 </a>
             </li>
         </ul>
@@ -22,12 +22,12 @@
                 <!-- identify the user already signed in or not -->
 
                 <div>
-                    <a href="/admin"><button type="button" class="btn red-Sign ">Administrator</button></a>
-                    <a href="/signup"><button type="button" class="btn red-Sign ">Sign Up</button></a>
-                    <a href="/signin"><button type="button" class="btn red-Sign">Sign In</button></a>
+                    <a href="adminLogin"><button type="button" class="btn red-Sign ">Administrator</button></a>
+                    <a href="signUp"><button type="button" class="btn red-Sign ">Sign Up</button></a>
+                    <a href="signIn"><button type="button" class="btn red-Sign">Sign In</button></a>
                 </div>
 
             </li>
         </ul>
-    </div>
+    </div> <!-- end of container -->
 </nav>

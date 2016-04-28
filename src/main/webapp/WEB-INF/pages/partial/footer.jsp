@@ -11,8 +11,8 @@
         <p>
             </br>
             CMPE275 TermProject Group6 </br>
-            Copyright© May 02th 2016,  SpicyTown, Takeout Order Management System
-            .  All rights reserved.  </br>
+            Copyright© May 02th 2016,  SpicyTown, Takeout Order Management System.
+            All rights reserved.  </br>
         </p>
     </div>
 </div>
