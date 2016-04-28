@@ -26,9 +26,10 @@
     </div>  <!-- end of row2  -->
 
     <!-- row 3 input -->
-    <div class="row">
+    <div class="row" >
         <form method="post" class ="col-lg-offset-4
-         col-lg-4" role="form">
+         col-lg-4" role="form" style="border:1px solid #dcdcdc;">
+            <h3 style="color:#862a3a;">Sing In</h3>
             <div class="form-group">
                 <label for="email">Email address:</label>
                 <input type="email" class="form-control" id="email">

@@ -23,12 +23,11 @@
             </div>
         </div>
 
-    <div class ="col-lg-offset-1 col-lg-4">
+    <div  >
         <!-- row 3 input -->
-        <div class="row">
-            <form method="post"  role="form">
-                </br>
-                </br>
+        <div class="row" style="margin-top: 30px">
+            <form method="post"  role="form" class ="col-lg-offset-1 col-lg-4" style="border:1px solid #dcdcdc;">
+                <h3 style="color:#862a3a;">Sing Up</h3>
                 <div class="form-group">
                     <label for="email">Email address:</label>
                     <input type="email" class="form-control" id="email">
