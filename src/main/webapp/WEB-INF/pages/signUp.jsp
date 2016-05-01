@@ -14,7 +14,7 @@
 <body>
 <%@ include file="/WEB-INF/pages/partial/navtop.jsp" %>
 
-<div class="container" style="background-color: #fcf3fd">
+<div class="container" style="margin-top: 60px; margin-bottom: 60px;">
 
     <!-- left  big background pic-->
         <div class="col-lg-5" >

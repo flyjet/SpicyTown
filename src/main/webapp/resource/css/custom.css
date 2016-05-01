@@ -34,6 +34,28 @@ button.lgred {
     min-width: 160px;
 }
 
+button.smred {
+    background-color: #bc1a3a;
+    box-shadow: inset 0 1px 0 0 #c7487a;
+    color: #fff;
+    border:1px solid #e75571;
+    text-shadow: 0.5px 0.5px 0.5px #000;
+    font-size:14px;
+    margin-top: 1px;
+    padding: 5px 5px;
+    min-width: 100px;
+}
+
+button.btn-block {
+    background-color: #bc1a3a;
+    box-shadow: inset 0 1px 0 0 #c7487a;
+    font-size: 17px;
+    color: #fff;
+    border:1px solid #e75571;
+    text-shadow: 0.5px 0.5px 0.5px #000;
+}
+
+
 .jumbotron {
     position: relative;
     width: 100%;
@@ -63,4 +85,28 @@ button.lgred {
     text-align:center;
     background-color:#eef2f8;
     font-size:14px;
+}
+
+
+
+.nav-tabs>li.active>a, .nav-tabs>li.active>a:hover, .nav-tabs>li.active>a:focus {
+    color: #fff;
+    font-size: 16px;
+    background-color:  #bc1a3a;
+    border:2px solid #e75571;
+}
+
+.nav-tabs>li>a {
+    background-color:#fcecef;
+    border:1px solid #f9d6dc;
+    color:#8f142c;
+    font-size: 16px;
+}
+
+
+.tab-content {
+    border-left: 1px solid #f9d6dc;
+    border-right: 1px solid #f9d6dc;
+    border-bottom: 1px solid #f9d6dc;
+    padding: 10px;
 }
